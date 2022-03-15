@@ -1,0 +1,21 @@
+/*////////// NAV //////////*/
+
+nav a {
+  display: inline-block;
+}
+
+.main-nav {
+  text-align: left;
+}
+
+.main-nav a {
+  padding: 20px 20px 20px 0;
+}
+
+.social-nav {
+  text-align: right;
+}
+
+.social-nav a {
+  padding: 20px 0 20px 20px;
+}

@@ -1,0 +1,29 @@
+/*////////// LAYOUT //////////*/
+
+* { box-sizing: border-box; }
+
+img, form, table, iframe {
+  width: 100%;
+  max-width: 100%;
+}
+
+main.container {
+  padding: 30px 0;
+}
+
+section {
+  padding: 20px;
+}
+
+.product-details {
+  padding: 0 0 20px 20px;
+}
+
+footer.container {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+footer section {
+  height: 185px;
+}
